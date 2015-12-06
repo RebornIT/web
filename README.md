@@ -1,5 +1,3 @@
-# web
-JavaScript html5 css3
 <!DOCTYPE html>
 <html>
 <head>
